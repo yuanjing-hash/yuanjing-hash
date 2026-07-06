@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" alt="袁景 / YuanJing profile header" width="100%" />
+  <img src="./assets/profile-header.svg" alt="YuanJing profile header" width="100%" />
 </div>
 
 <br />
 
-<h3 align="center">你好，我是袁景</h3>
+<h3 align="center">你好，我是 YuanJing</h3>
 
 <p align="center">
   我在做一些自己真正会用的东西：家庭影音、自动化、桌面体验，以及那些应该安静待在背景里的工具。
